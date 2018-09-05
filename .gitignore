@@ -1,6 +1,5 @@
 target/
 bin/
-data/
 /logs/*
 .settings/
 .project
